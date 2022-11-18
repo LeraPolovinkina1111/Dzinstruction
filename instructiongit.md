@@ -12,6 +12,8 @@ KHGYTVF^UYRTFVKBJ
 
 *Всю необходимую информацию по его остановке вы сможете найти на сайте: https://git-scm.com/*
 # Go Go GO 
+* hjgfeuryfg 
+# erfivknm er
 
 
 Если вы не настроили до конца ваш Git
