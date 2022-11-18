@@ -3,18 +3,11 @@
 **Git** — это набор консольных утилит, которые отслеживают и фиксируют изменения в файлах.
 
 Чтобы приступить к работе с GIt  необходимо установить его на ваш компьютер.
- * kfjghejdg
-* lkdfjgvnbfkv
-* dfjhnlodirk
-![Саша](cfcf.jpg)
 
-KHGYTVF^UYRTFVKBJ
-# hdrflgvknr emrm
+
 
 *Всю необходимую информацию по его остановке вы сможете найти на сайте: https://git-scm.com/*
-# Go Go GO 
-* hjgfeuryfg 
-# erfivknm er
+r
 
 
 Если вы не настроили до конца ваш Git
