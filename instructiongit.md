@@ -6,6 +6,7 @@
  * kfjghejdg
 * lkdfjgvnbfkv
 * dfjhnlodirk
+![Саша](cfcf.jpg)
 
 KHGYTVF^UYRTFVKBJ
 # hdrflgvknr emrm
